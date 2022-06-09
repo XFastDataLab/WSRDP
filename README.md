@@ -14,4 +14,4 @@ You can cite this paper in:
 
 The main body of the code is divided into three parts: the training part of SVM and SVR, and the main program part of RDP. If you want to use the parameters in the paper directly, you can run the code in the third part directly.
 
-Most of the test sets that need to segment small objects can use the weak parameters trained in the paper. Some special parameters are documented in example.pdf.
+Most of the test sets that need to segment small objects can use the weak parameters trained in the paper. Some special parameters are documented in WSRDP_example.pdf.
